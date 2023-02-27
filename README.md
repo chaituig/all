@@ -18,7 +18,7 @@ don't always test older versions.
 
 If you're interested in using the [GraphQL API v4][], the recommended library is
 [shurcooL/githubv4][].
-
+     vinay
 ## Installation ##
 
 go-github is compatible with modern Go releases in module mode, with Go installed:
